@@ -1,7 +1,5 @@
 package org.example.tdd_chat_system.entity;
 
-import lombok.Getter;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
